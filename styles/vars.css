@@ -1,0 +1,22 @@
+:root{
+    --CLR-HS-purple: hsl(273, 85%, 13%); 
+    --CLR-HS-green: hsl(150, 100%, 63%);
+    --CLR-LS-brown: hsl(271, 12%, 34%);
+    --CLR-LS-purple: hsl(276, 100%, 99%);
+    --CLR-HS-white: #fff;
+
+
+    --FS-HXL: 5.33rem;
+    --FS-HL: 3.73rem;
+    --FS-HM: 2.13rem;
+
+    --LH-HXL: 5.33rem;
+    --LH-HL: 4.26rem;
+    --LH-HM: 2.66rem;
+
+    --FS-body: 1.2rem;
+    --LH-body: 2.13rem;
+
+    font-size: 15px;
+
+}
